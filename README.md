@@ -12,3 +12,7 @@ short_description: survival_check
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+## Live Demo
+
+[Click Here to Open App](https://huggingface.co/spaces/Shivani2432/titanic)
